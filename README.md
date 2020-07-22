@@ -1,16 +1,15 @@
-# _help_
+# _Help_
 
 #### _Exploration of Event Handlers, 5.29.20_
 
 #### By _**Megan Hepner**_
 
 ## Description
-  This page returns an alert naming the HMTL element when the user clicks on that element in the webpage
+  This page returns an alert naming the HMTL element when the user clicks on that element in the webpage.
 
 
 ## Setup/Installation Requirements
-
-* use the terminal to clone this repository 
+ 
 * to clone this content, copy the url provided by the 'clone or download' button in GitHub
 * in terminal use the command 'git clone (GitHub url)'
 * open the content in a web browser
